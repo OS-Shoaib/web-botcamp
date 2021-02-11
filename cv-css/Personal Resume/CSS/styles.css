@@ -1,0 +1,36 @@
+body{
+    background-color: #EAF6F6;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    height: 0;
+    width: 60%;
+}
+
+table {
+    border-spacing: 20px;
+    border-collapse: separate;
+}
+
+h1{
+    color: #66bfbf;
+}
+
+h3{
+    color: #66bfbf;
+}
+
+img{
+    border-radius: 100%;
+}
+
+/************* Class Selector ****************/
+
+.second{
+    border-spacing: 10px;
+    border-collapse: separate;
+}
